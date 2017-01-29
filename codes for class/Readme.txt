@@ -1,0 +1,1 @@
+code to generate sql data for sql course
